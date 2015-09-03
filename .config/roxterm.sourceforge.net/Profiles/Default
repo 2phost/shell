@@ -1,0 +1,17 @@
+[roxterm profile]
+colour_scheme=solatarized-dark
+scrollbar_pos=0
+always_show_tabs=0
+hide_menubar=1
+show_resize_grip=0
+show_add_tab_btn=0
+font=Inconsolata 10
+background_type=0
+saturation=1.000000
+allow_bold=1
+visible_bell=0
+audible_bell=1
+autowrap=1
+full_screen=0
+maximise=0
+term=xterm-256color

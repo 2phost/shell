@@ -1,0 +1,8 @@
+[roxterm options]
+prefer_dark_theme=0
+only_warn_running=1
+warn_close=1
+edit_shortcuts=1
+shortcut_scheme=Default2
+colour_scheme=solatarized-dark
+encoding=Default
